@@ -30,7 +30,3 @@ Designed to make your daily planning ✨fun, organized, and futuristic✨.
 🔗 [https://gourab-0.github.io/3d-todolist-webapp/](https://gourab-0.github.io/3d-todolist-webapp/)  
 (*Make sure `index.html` is in your repo’s root folder and GitHub Pages is enabled*)
 
----
-
-## 📁 Project Structure
-
